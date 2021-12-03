@@ -5,7 +5,7 @@ import MainNavigator from './src/Navigators/MainNavigator';
 export default function App() {
   return (
     <NavigationContainer>
-    <MainNavigator/>
+      <MainNavigator />
     </NavigationContainer>
 
   );
